@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
@@ -8,7 +7,7 @@ int main()
     int num, dighit;
     cout << "Enet naum \t";
     cin >> num;
-    for (int q = 1; q < num; q++)
+    for (int q = 1; q <= num; q++)
     {
         int sum = 0;
         for(int i = q; i != 0; )

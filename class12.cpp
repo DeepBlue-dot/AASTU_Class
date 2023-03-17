@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
@@ -22,7 +21,7 @@ int main()
     }
     if(num == sum)
     {
-        cout << "Is ARMSTRONG";
+        cout << "Is ARMSTRONG" << endl;
     }
 
         
