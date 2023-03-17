@@ -5,9 +5,9 @@ using namespace std;
 int main()
 {
     int num, dighit;
-    cout << "Enet naum \t";
+    cout << "Enter number:\t";
     cin >> num;
-    for (int q = 1; q <= num; q++)
+    for (int q = num; q > 0; q--)
     {
         int sum = 0;
         for(int i = q; i != 0; )
@@ -24,7 +24,11 @@ int main()
         }
         if(q == sum)
         {
-            cout << sum <<" ";
+            if(num == sum)
+                cout << num <<" is armstrong.\n";
+            else
+                cout << sum <<" "; 
+           
         }
     }
         
