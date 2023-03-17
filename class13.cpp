@@ -7,21 +7,24 @@ int main()
     int num, dighit;
     cout << "Enter number:\t";
     cin >> num;
-    for (int q = num; q > 0; q--)
+    int q = num;
+    do 
     {
         int sum = 0;
-        for(int i = q; i != 0; )
+        int i = q; 
+        do
         {
             dighit = i % 10;
             int mult =1;
-            for(int j = q; j != 0; )
+            int j = q;
+            do
             {
                 j = j/10;
                 mult*=dighit;
-            }
+            }while( j != 0);
             i = i/10;
             sum += mult;
-        }
+        }while(i != 0);
         if(q == sum)
         {
             if(num == sum)
@@ -30,6 +33,8 @@ int main()
                 cout << sum <<" "; 
            
         }
-    }
+        q--;
+    }while (q > 0);
+       
         
 }

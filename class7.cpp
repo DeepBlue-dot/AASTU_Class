@@ -9,10 +9,9 @@ int main()
     cout << "Enter number:\n";
     cin >> num;
     while (num != 0)
-    {
         cout << num%10;
-        num = num/10;
-    }
+    num = num/10;
+    
     return 0;
     
 }
