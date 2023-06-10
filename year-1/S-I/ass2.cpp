@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Checks if a number is prime
+//Checks if a number is prime
 bool isPrime(int* num) 
 {
     // Check if the number is divisible by any numbers from 2 to its square root

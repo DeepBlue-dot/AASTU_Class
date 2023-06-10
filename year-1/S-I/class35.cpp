@@ -12,7 +12,7 @@ int main()
         for(int j = row; j>0; j--)
         {
             if(i >=j)
-                cout <<"*";
+                cout <<i;
             else
                 cout <<" ";
         }
