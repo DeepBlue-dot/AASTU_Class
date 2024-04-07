@@ -1,0 +1,11 @@
+this numerical assigment is done using c++ so if u want to test this code in your computer 
+u must fullfil some prereqirements
+=> u need to instal a complier (text editor) for the c++ code to been writen in. i would recommand you to use (VS code) 
+=> u need to install c++ IDE e.g-mingw  to be able to run your c++ code. you can down load your migw
+	from this site (https://www.bing.com/ck/a?!&&p=162cbe2cb6aeac67JmltdHM9MTcxMjM2MTYwMCZpZ3VpZD0wNzQwMTI2ZS1kOWY0LTZkOWMtMDMwZC0wMTU0ZGRmNDZiZDkmaW5zaWQ9NTIzNA&ptn=3&ver=2&hsh=3&fclid=0740126e-d9f4-6d9c-030d-0154ddf46bd9&psq=c%2b%2b+mingw+download&u=a1aHR0cHM6Ly93d3cubWluZ3ctdzY0Lm9yZy9kb3dubG9hZHMv&ntb=1)
+=> if u are confused as how to install and setup your c++ work enviroment vist this link below
+	videos(https://www.bing.com/ck/a?!&&p=76a9dc54342138c9JmltdHM9MTcxMjM2MTYwMCZpZ3VpZD0wNzQwMTI2ZS1kOWY0LTZkOWMtMDMwZC0wMTU0ZGRmNDZiZDkmaW5zaWQ9NTQ3Mg&ptn=3&ver=2&hsh=3&fclid=0740126e-d9f4-6d9c-030d-0154ddf46bd9&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9aG93K3RvK3NldHVwK2MlMmIlMmIrb24rbXkrY29tcHV0ZXImbWlkPThDNUQyRkU1RjU2OENBQjI4NDVGOEM1RDJGRTVGNTY4Q0FCMjg0NUYmRk9STT1WSVJF&ntb=1)
+	website/webpage(https://www.bing.com/ck/a?!&&p=38b08887401dd213JmltdHM9MTcxMjM2MTYwMCZpZ3VpZD0wNzQwMTI2ZS1kOWY0LTZkOWMtMDMwZC0wMTU0ZGRmNDZiZDkmaW5zaWQ9NTIxMQ&ptn=3&ver=2&hsh=3&fclid=0740126e-d9f4-6d9c-030d-0154ddf46bd9&psq=how+to+setup+c%2b%2b+on+my+computer&u=a1aHR0cHM6Ly93d3cuZnJlZWNvZGVjYW1wLm9yZy9uZXdzL2hvdy10by1pbnN0YWxsLWMtYW5kLWNwcC1jb21waWxlci1vbi13aW5kb3dzLw&ntb=1)
+
+=>after you have complited the above requiermets you must install some c++ lib for the code to be able to run. using thr gnu pakaging tool
+=>if u have any farther questions plz contact me for any feed back tnx:)

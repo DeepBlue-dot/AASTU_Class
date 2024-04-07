@@ -1,0 +1,210 @@
+1
+John Doe
+18
+M
+85
+90
+92
+2
+Jane Smith
+17
+F
+78
+82
+79
+3
+Alex Johnson
+16
+M
+92
+88
+94
+4
+Emily Anderson
+19
+F
+79
+85
+88
+5
+Michael Brown
+17
+M
+90
+92
+87
+6
+Olivia Davis
+18
+F
+92
+94
+91
+7
+William Johnson
+17
+M
+87
+83
+85
+8
+Emma Wilson
+16
+F
+88
+91
+89
+9
+Ethan Thompson
+18
+M
+84
+90
+86
+10
+Sophia Martinez
+17
+F
+92
+88
+90
+11
+Liam Davis
+19
+M
+79
+85
+82
+12
+Ava Garcia
+16
+F
+90
+92
+87
+13
+Noah Wilson
+17
+M
+92
+94
+91
+14
+Isabella Clark
+18
+F
+87
+83
+85
+15
+Lucas Adams
+16
+M
+88
+91
+89
+16
+Mia Rodriguez
+18
+F
+84
+90
+86
+17
+Alexander Allen
+17
+M
+92
+88
+90
+18
+Charlotte Turner
+19
+F
+79
+85
+82
+19
+James Lewis
+16
+M
+90
+92
+87
+20
+Harper Scott
+17
+F
+92
+94
+91
+21
+Benjamin Walker
+18
+M
+87
+83
+85
+22
+Abigail Hill
+16
+F
+88
+91
+89
+23
+Samuel Phillips
+18
+M
+84
+90
+86
+24
+Elizabeth Young
+17
+F
+92
+88
+90
+25
+Daniel Turner
+19
+M
+79
+85
+82
+26
+Victoria Green
+16
+F
+90
+92
+87
+27
+Christopher Allen
+17
+M
+92
+94
+91
+28
+Grace Rodriguez
+16
+F
+87
+83
+85
+29
+Jackson Parker
+18
+M
+88
+91
+89
+30
+Lily Turner
+17
+F
+84
+90
+86

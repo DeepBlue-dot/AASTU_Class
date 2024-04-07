@@ -24,7 +24,7 @@ int main()
         }
         if(q == sum)
         {
-            cout << sum << " ";
+            cout << sum << " "<< __DATE__;
         }
 
     }
